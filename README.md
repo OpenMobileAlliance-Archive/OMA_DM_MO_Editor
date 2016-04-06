@@ -1,5 +1,6 @@
-# OMA_MO_Editor
-Management Object Editor
+# OMA Device Management Editor for Management Objects
+
+DM MO Editor
 
 The Management Object Editor Tool can be access here: http://devtoolkit.openmobilealliance.org/DMEditor/Default
 
